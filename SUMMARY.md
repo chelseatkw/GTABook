@@ -10,4 +10,7 @@
       * [Line Graph](chapter1/page1/2d-graph/line-graph.md)
     * [3D Graph](chapter1/page1/3d-graph.md)
 * [Second Chapter](second-chapter.md)
+  * [Customization](second-chapter/customization.md)
+    * [Plot Detail](second-chapter/customization/plot-detail.md)
+    * Axis Dialog 
 
