@@ -11,7 +11,7 @@
     * [3D Graph](chapter1/page1/3d-graph.md)
 * [Second Chapter](second-chapter.md)
   * [Customization](second-chapter/customization.md)
-    * [Plot Detail](second-chapter/customization/plot-detail.md)
+    * Plot Detail
       * [Group Tab](second-chapter/customization/plot-detail/group-tab.md)
       * Legends/Titles Tab
       * Stack Tab
@@ -21,7 +21,7 @@
       * Label Tab 
       * [Pattern Tab](second-chapter/customization/plot-detail/pattern-tab.md)
       * Transparency
-    * [Axis Dialog ](second-chapter/customization/axis-dialog.md)
+    * Axis Dialog 
       * Scale Tab
       * Tick Labels tab
       * Title Tab
@@ -30,4 +30,6 @@
       * Special Ticks tab
       * Break Tab
       * Reference Lines tab
+
+
 
