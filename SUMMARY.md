@@ -12,5 +12,22 @@
 * [Second Chapter](second-chapter.md)
   * [Customization](second-chapter/customization.md)
     * [Plot Detail](second-chapter/customization/plot-detail.md)
-    * Axis Dialog 
+      * Legends/Titles Tab
+      * Group Tab
+      * Stack Tab
+      * Line Tab
+      * Symbol Tab
+      * Spacing Tab
+      * Label Tab 
+      * [Pattern Tab](second-chapter/customization/plot-detail/pattern-tab.md)
+      * Transparency
+    * [Axis Dialog ](second-chapter/customization/axis-dialog.md)
+      * Scale Tab
+      * Tick Labels tab
+      * Title Tab
+      * Grids Tab
+      * Line and Ticks tab
+      * Special Ticks tab
+      * Break Tab
+      * Reference Lines tab
 
