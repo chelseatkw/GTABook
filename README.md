@@ -38,3 +38,22 @@ CREATE TABLE [report](
 
 
 
+Import sql:
+
+process test data:
+
+```
+"INSERT INTO report (reportFile,caseName,caseTester,buildID,success,successPct,failed,result,startTime,duration) VALUES ('".$filestr."','".$str."','Chelsea','".$buildid."',".$success.",".$successPct.",".$failed.",'".$$result."','".$startTime."','".$duration."')"
+UPDATE report set duration = strftime('%s',duration) - strftime('%s',startTime);
+```
+
+
+
+report presented:
+
+```
+ SELECT   * FROM report where buildID=(SELECT buildID FROM report ORDER BY buildID DESC LIMIT 1) GROUP BY caseName ORDER BY successPct DESC;
+```
+
+
+
