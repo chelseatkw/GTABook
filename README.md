@@ -15,7 +15,5 @@ It is an auto test system designed for graphing testing.
 
 Design graph:
 
-
-
-
+![](/assets/gtade.png)
 
