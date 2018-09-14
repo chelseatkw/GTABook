@@ -13,15 +13,28 @@ It is an auto test system designed for graphing testing.
 3. Reference :[http://wikis/internal/index.php?title=Originlab%3AGraphing\_Testing](http://wikis/internal/index.php?title=Originlab%3AGraphing_Testing)
 4. Control panel: [http://192.168.18.108/GTAControlPanel/index.html?page=3](http://192.168.18.108/GTAControlPanel/index.html?page=3)
 
-
-
 Design graph:
 
 ![](/assets/gtade.png)
 
-
-
 Sqlite database design:
+
+```
+CREATE TABLE [report](
+    [reportFile], 
+    [caseName], 
+    [caseTester], 
+    [nodeName], 
+    [shortNodeName], 
+    [buildID], 
+    [success], 
+    [successPct], 
+    [failedPct], 
+    [failed], 
+    [result], 
+    [startTime] PRIMARY KEY, 
+    [duration]);
+```
 
 
 
