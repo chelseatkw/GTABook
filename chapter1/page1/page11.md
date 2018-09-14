@@ -1,6 +1,6 @@
-| a | b | c | d | e | f |
+| Type id  | Type name | Case id | Case description | Test data | Expected results |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| a | b | c | d | e | f |
+| 1 | Plot range | 1 | One column | Fill row numbers | Plot correct |
 |  |  |  |  |  |  |
 
 
