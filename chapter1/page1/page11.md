@@ -2,8 +2,6 @@
 
 Files location:[http://192.168.18.60/Chelsea/GraphingTesting/tree/master/PlotRange](http://192.168.18.60/Chelsea/GraphingTesting/tree/master/PlotRange)
 
-
-
 TestCase 1:
 
 | Type id | Type name | Case id | Case description | Test data | Expected results |
@@ -11,9 +9,7 @@ TestCase 1:
 | 1 | Select combination | 1 | One column | Fill row numbers | Plot correct |
 |  |  | 2 | multiple columns | Fill row numbers | Plot correct |
 |  |  | 3 | adjacent | Fill row numbers | Plot correct |
-|  |  | 4 |  non-adjacent | Fill row numbers | Plot correct |
-
-
+|  |  | 4 | non-adjacent | Fill row numbers | Plot correct |
 
 TestCase 2:
 
