@@ -12,8 +12,8 @@
 * [Second Chapter](second-chapter.md)
   * [Customization](second-chapter/customization.md)
     * [Plot Detail](second-chapter/customization/plot-detail.md)
+      * [Group Tab](second-chapter/customization/plot-detail/group-tab.md)
       * Legends/Titles Tab
-      * Group Tab
       * Stack Tab
       * Line Tab
       * Symbol Tab
