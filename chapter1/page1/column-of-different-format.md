@@ -1,4 +1,4 @@
-### Plot Range
+### Column of different format
 
 Files location:[http://192.168.18.60/Chelsea/GraphingTesting/tree/master/ColumnOfDifferentFormat](http://192.168.18.60/Chelsea/GraphingTesting/tree/master/ColumnOfDifferentFormat)
 
