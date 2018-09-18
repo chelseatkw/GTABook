@@ -1,6 +1,6 @@
-### Plot Range
+### Symbols Graph
 
-Files location:[http://192.168.18.60/Chelsea/GraphingTesting/tree/master/LineGraph](http://192.168.18.60/Chelsea/GraphingTesting/tree/master/LineGraph)
+Files location:[http://192.168.18.60/Chelsea/GraphingTesting/tree/master/SymbolsGraph](http://192.168.18.60/Chelsea/GraphingTesting/tree/master/SymbolsGraph)
 
 TestCase 1:
 
