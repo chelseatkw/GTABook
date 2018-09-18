@@ -23,8 +23,8 @@ TestCase 6:
 
 | Type id | Type name | Case id | Case description | Test data | Expected results |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| 6 | Fill Area Under Curve: Check diff settings  | 1 | Try different line width | Fill row numbers | Plot correct |
-|  |  | 2 | Try different color | Fill row numbers | Plot correct |
+| 6 | Fill Area Under Curve: Check diff settings | 1 | Span Vertically broken by missing values | Fill row numbers | Plot correct |
+|  |  | 2 | Fill to next data plot - One Color/Above below colors | Fill row numbers | Plot correct |
 
 
 
