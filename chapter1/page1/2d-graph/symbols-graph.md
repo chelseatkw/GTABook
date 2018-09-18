@@ -8,5 +8,11 @@ TestCase 1:
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | 1 | different symbol | 1 | Try some different symbol, build in and user defined | Fill row numbers | Plot correct |
 
+TestCase 2:
+
+| Type id | Type name | Case id | Case description | Test data | Expected results |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| 2 |  | 1 | Drag X,Y Error columns into a graph  | Fill row numbers | Plot correct |
+
 
 
