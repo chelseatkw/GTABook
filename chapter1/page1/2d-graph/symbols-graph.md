@@ -6,8 +6,7 @@ TestCase 1:
 
 | Type id | Type name | Case id | Case description | Test data | Expected results |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| 1 | line width,color | 1 | Try different line width | Fill row numbers | Plot correct |
-|  |  | 2 | Try different color | Fill row numbers | Plot correct |
+| 1 | different symbol | 1 | Try some different symbol, build in and user defined | Fill row numbers | Plot correct |
 
 
 
