@@ -12,7 +12,7 @@
     * [3D Graph](chapter1/page1/3d-graph.md)
 * [Second Chapter](second-chapter.md)
   * [Customization](second-chapter/customization.md)
-    * Plot Detail
+    * [Plot Detail](second-chapter/customization/plot-detail.md)
       * [Group Tab](second-chapter/customization/plot-detail/group-tab.md)
       * [Legends/Titles Tab](second-chapter/customization/plot-detail/legendstitles-tab.md)
       * [Stack Tab](second-chapter/customization/plot-detail/stack-tab.md)
