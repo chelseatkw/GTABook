@@ -13,7 +13,21 @@ It is an auto test system designed for graphing testing.
 3. Reference :[http://wikis/internal/index.php?title=Originlab%3AGraphing\_Testing](http://wikis/internal/index.php?title=Originlab%3AGraphing_Testing)
 4. Control panel: [http://192.168.18.108/GTAControlPanel/](http://192.168.18.108/GTAControlPanel/)
 
-Design graph:
+
+
+* Funcitonal test material design and make:
+
+We pay close attention to "case point" , "classified type" , "case using data" and "expected results". Then make it into Ranorex scripts.
+
+example:
+
+| Type id | Type name | Case id | Case description | Test data | Expected results |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+|  |  |  |  |  |  |
+
+
+
+* Design graph:
 
 ![](/assets/gtade.png)
 
