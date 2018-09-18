@@ -6,12 +6,12 @@
   * Plotting
     * [Plot Range](chapter1/page1/page11.md)
     * [Column of different format](chapter1/page1/column-of-different-format.md)
-    * [2D Graph](chapter1/page1/2d-graph.md)
+    * 2D Graph
       * [Line Graph](chapter1/page1/2d-graph/line-graph.md)
       * [Symbols Graph](chapter1/page1/2d-graph/symbols-graph.md)
-    * [3D Graph](chapter1/page1/3d-graph.md)
+    * 3D Graph
 * Second Chapter
-  * [Customization](second-chapter/customization.md)
+  * Customization
     * Plot Detail
       * [Group Tab](second-chapter/customization/plot-detail/group-tab.md)
       * [Legends/Titles Tab](second-chapter/customization/plot-detail/legendstitles-tab.md)
