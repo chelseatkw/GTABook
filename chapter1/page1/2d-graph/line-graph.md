@@ -26,7 +26,7 @@ TestCase 6:
 | 6 | Fill Area Under Curve: Check diff settings | 1 | Span Vertically broken by missing values | Fill row numbers | Plot correct |
 |  |  | 2 | Fill to next data plot - One Color/Above below colors | Fill row numbers | Plot correct |
 |  |  | 3 | Try to fill to next plot draws when there is missing values or axis break | Fill row numbers | Plot correct |
-|  |  | 4 | Try missing value case for normal, slideline only, slideline and base case, etc. \(and also change line color to increment or colormap to test\) |  |  |
+|  |  | 4 | Try missing value case for normal, slideline only, slideline and base case, etc. \(and also change line color to increment or colormap to test\) | Fill row numbers | Plot correct |
 
 
 
