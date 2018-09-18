@@ -1,4 +1,4 @@
-### Plot Range
+### Line Graph
 
 Files location:[http://192.168.18.60/Chelsea/GraphingTesting/tree/master/LineGraph](http://192.168.18.60/Chelsea/GraphingTesting/tree/master/LineGraph)
 
