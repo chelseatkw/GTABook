@@ -1,6 +1,6 @@
 ### Line Tab
 
-Files location:[http://192.168.18.60/Chelsea/GraphingTesting/tree/master/](http://192.168.18.60/Chelsea/GraphingTesting/tree/master/LineGraph)PlotDetail
+Files location:[http://192.168.18.60/Chelsea/GraphingTesting/tree/master/PlotDetail](http://192.168.18.60/Chelsea/GraphingTesting/tree/master/PlotDetail)
 
 TestCase 1:
 
