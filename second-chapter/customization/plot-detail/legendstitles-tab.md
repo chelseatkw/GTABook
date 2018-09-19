@@ -8,7 +8,7 @@ TestCase 1:
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | 1 | Legend Symbol Width | 1 | Legend Symbol Width \(%\) Should effect all lines | Fill row numbers | Plot correct |
 |  |  | 2 | Legend Symbol Width \(%\) Should effect  symbols | Fill row numbers | Plot correct |
-|  |  | 3 | Legend Symbol Width \(%\) Should effect Lines + Symbols |  |  |
+|  |  | 3 | Legend Symbol Width \(%\) Should effect Lines + Symbols | Fill row numbers | Plot correct |
 
 
 
