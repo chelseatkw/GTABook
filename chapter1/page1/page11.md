@@ -25,5 +25,11 @@ TestCase 3:
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | 3 |  | 1 | Y with sampling intervals | Fill row numbers | Plot Correct |
 
+TestCase 4:
+
+| Type id | Type name | Case id | Case description | Test data | Expected results |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| 4 |  | 1 | Diff column headers with user defined parameters | Fill row numbers | Plot Correct |
+
 
 
