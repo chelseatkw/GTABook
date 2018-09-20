@@ -22,3 +22,12 @@ TestCase 2:
 
 note: When making plot from such X column, tick label will be Text from Dataset if half of the range is text.
 
+TestCase 3:
+
+| Type id | Type name | Case id | Case description | Test data | Expected results |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| 2 |  | 1 | mixed text and numeric data in X | Fill row numbers | Plot Correct |
+|  |  | 2 | mixed text and numeric data in Y columns | Fill row numbers | Plot Correct |
+
+
+
