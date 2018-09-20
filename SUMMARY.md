@@ -37,7 +37,7 @@
       * [Point](function-tab/point.md)
       * [Parameter](function-tab/parameter.md)
       * [From/To](function-tab/fromto.md)
-      * [formula panel\(Y\(x\)=, Z\(u,v\)=\) -z\(uv\)\).md\)](function-tab/formula-panel(y(x)
+      * [formula panel](function-tab/formula-panel.md)
       * [definition table](function-tab/definition-table.md)
       * [Create New Graph dropdown list button](function-tab/create-new-graph-dropdown-list-button.md)
     * [Label tab](label-tab.md)
