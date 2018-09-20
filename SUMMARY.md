@@ -2,17 +2,17 @@
 
 * [Introduction](README.md)
 * [Table of Contents](table-of-contents.md)
-* First Chapter
-  * Plotting
+* [First Chapter](first-chapter.md)
+  * [Plotting](first-chapter/plotting.md)
     * [Plot Range](chapter1/page1/page11.md)
     * [Column of different format](chapter1/page1/column-of-different-format.md)
-    * 2D Graph
+    * [2D Graph](chapter1/page1/2d-graph.md)
       * [Line Graph](chapter1/page1/2d-graph/line-graph.md)
       * [Symbols Graph](chapter1/page1/2d-graph/symbols-graph.md)
     * 3D Graph
-* Second Chapter
-  * Customization
-    * Plot Detail
+* [Second Chapter](second-chapter.md)
+  * [Customization](second-chapter/customization.md)
+    * [Plot Detail](second-chapter/customization/plot-detail.md)
       * [Group Tab](second-chapter/customization/plot-detail/group-tab.md)
       * [Legends/Titles Tab](second-chapter/customization/plot-detail/legendstitles-tab.md)
       * [Stack Tab](second-chapter/customization/plot-detail/stack-tab.md)
@@ -22,7 +22,7 @@
       * [Label Tab ](second-chapter/customization/plot-detail/label-tab.md)
       * [Pattern Tab](second-chapter/customization/plot-detail/pattern-tab.md)
       * [Transparency](second-chapter/customization/plot-detail/transparency.md)
-    * Axis Dialog 
+    * [Axis Dialog ](second-chapter/customization/axis-dialog.md)
       * [Scale Tab](second-chapter/customization/scale-tab.md)
       * [Tick Labels tab](second-chapter/customization/tick-labels-tab.md)
       * [Title Tab](second-chapter/customization/title-tab.md)
@@ -34,7 +34,7 @@
 * [Third Chapter](third-chapter.md)
   * [Function Plot Testing](third-chapter/function-plot-testing.md)
     * [Function tab](function-tab.md)
-      * [Point\(Column/Row\) ](function-tab/point(columnrow).md)
+      * [Point\(Column/Row\) .md\)](function-tab/point(columnrow)
       * Parameter \(only applicable for 2D Parametric Plot and 3D Parametric Plot\)
       * From/To
       * formula panel\(Y\(x\)=, Z\(u,v\)=\) 
