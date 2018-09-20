@@ -23,10 +23,25 @@ TestCase 3:
 
 | Type id | Type name | Case id | Case description | Test data | Expected results |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| 3 | Connect type | 1 | Color: Set as Increment | Fill row numbers | Plot correct |
+| 3 |  | 1 | Color: Set as Increment | Fill row numbers | Plot correct |
 |  |  | 2 | color mapping | Fill row numbers | Plot correct |
 |  |  | 3 | color indexing | Fill row numbers | Plot correct |
 |  |  | 4 | Set as Custom and right click to set Custom color | Fill row numbers | Plot correct |
+
+TestCase 4:
+
+| Type id | Type name | Case id | Case description | Test data | Expected results |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| 4 |  | 1 | Set Connect types Bezier ,then try to set color as increment | Fill row numbers | Plot correct |
+|  |  | 2 | Set Connect types 2 point segment,then try to set color as increment | Fill row numbers | Plot correct |
+|  |  | 3 | Set Connect types 3 point segment ,then try to set color as increment | Fill row numbers | Plot correct |
+
+TestCase 5:
+
+| Type id | Type name | Case id | Case description | Test data | Expected results |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| 5 |  | 1 | Transparency: Set as max: 100 | Fill row numbers | Plot correct |
+|  |  | 2 | Transparency: Set as min:0 | Fill row numbers | Plot correct |
 
 TestCase 6:
 
