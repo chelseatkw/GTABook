@@ -19,5 +19,11 @@ TestCase 2:
 |  |  | 2 | ranges in differnet columns | Fill row numbers | Plot Correct |
 |  |  | 3 | ranges in diff worksheet of the same workbook | Fill row numbers | Plot disable |
 
+TestCase 3:
+
+| Type id | Type name | Case id | Case description | Test data | Expected results |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| 3 |  | 1 |  | Fill row numbers | Plot disable |
+
 
 
