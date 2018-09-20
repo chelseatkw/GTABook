@@ -31,6 +31,8 @@
       * [Special Ticks tab](second-chapter/customization/special-ticks-tab.md)
       * [Break Tab](second-chapter/customization/break-tab.md)
       * [Reference Lines tab](second-chapter/customization/reference-lines-tab.md)
-
-
+* Third Chapter
+  * Function Plot Testing
+    * [Function tab](function-tab.md)
+    * Label tab
 
