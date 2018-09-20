@@ -45,5 +45,15 @@ TestCase 6:
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | 6 |  | 1 | Error bar | Fill row numbers | Plot Correct |
 
+TestCase 7:
+
+| Type id | Type name | Case id | Case description | Test data | Expected results |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| 7 | For some special plot,we should use specific plot range | 1 | box chart | Fill row numbers | Plot correct |
+|  |  | 2 | radar chart | Fill row numbers | Plot correct |
+|  |  | 3 | polar plot | Fill row numbers | Plot correct |
+|  |  | 4 | windrose plot | Fill row numbers | Plot correct |
+|  |  | 5 | Pie chart | Fill row numbers | Plot correct |
+
 
 
