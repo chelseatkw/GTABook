@@ -33,7 +33,19 @@ TestCase 5:
 
 | Type id | Type name | Case id | Case description | Test data | Expected results |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| 5 |  | 1 | Support multi-line data labels  | Fill row numbers | Plot correct |
+| 5 |  | 1 | Support multi-line data labels | Fill row numbers | Plot correct |
+
+TestCase 6:
+
+| Type id | Type name | Case id | Case description | Test data | Expected results |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| 6 | mapped | 1 | Frame dropdown list: None | Fill row numbers | Plot correct |
+|  |  | 2 | Frame dropdown list:Box | Fill row numbers | Plot correct |
+|  |  | 3 | Frame dropdown list:Shadow.  | Fill row numbers | Plot correct |
+
+
+
+
 
 
 
