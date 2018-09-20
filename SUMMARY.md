@@ -34,5 +34,11 @@
 * Third Chapter
   * Function Plot Testing
     * [Function tab](function-tab.md)
+      * Point\(Column/Row\) 
+      * Parameter \(only applicable for 2D Parametric Plot and 3D Parametric Plot\)
+      * From/To
+      * formula panel\(Y\(x\)=, Z\(u,v\)=\) 
+      * definition table
+      * Create New Graph dropdown list button
     * Label tab
 
