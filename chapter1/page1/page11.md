@@ -23,7 +23,7 @@ TestCase 3:
 
 | Type id | Type name | Case id | Case description | Test data | Expected results |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| 3 |  | 1 |  | Fill row numbers | Plot disable |
+| 3 |  | 1 | Y with sampling intervals | Fill row numbers | Plot Correct |
 
 
 
