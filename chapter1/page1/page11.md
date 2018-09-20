@@ -35,33 +35,9 @@ TestCase 5:
 
 | Type id | Type name | Case id | Case description | Test data | Expected results |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| 5 | try different kinds of column combinations | 1 | ranges in same columns | Fill row numbers | Plot disable |
-|  |  | 2 | ranges in differnet columns | Fill row numbers | Plot Correct |
-|  |  | 3 | ranges in diff worksheet of the same workbook | Fill row numbers | Plot disable |
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+| 5 | try different kinds of column combinations | 1 | XYXY data | Fill row numbers | Plot Correct |
+|  |  | 2 | XYYYY | Fill row numbers | Plot Correct |
+|  |  | 3 | XYZXYZ | Fill row numbers | Plot Correct |
 
 
 
