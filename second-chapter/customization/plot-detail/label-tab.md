@@ -41,49 +41,7 @@ TestCase 6:
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | 6 | mapped | 1 | Frame dropdown list: None | Fill row numbers | Plot correct |
 |  |  | 2 | Frame dropdown list:Box | Fill row numbers | Plot correct |
-|  |  | 3 | Frame dropdown list:Shadow.  | Fill row numbers | Plot correct |
+|  |  | 3 | Frame dropdown list:Shadow. | Fill row numbers | Plot correct |
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+note:Border Color is black by default. Fill Color is None by default. Border Color is disabled when Frame=None, and it also defines the shadow color when Frame=Shadow.
 
