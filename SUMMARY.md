@@ -31,10 +31,10 @@
       * [Special Ticks tab](second-chapter/customization/special-ticks-tab.md)
       * [Break Tab](second-chapter/customization/break-tab.md)
       * [Reference Lines tab](second-chapter/customization/reference-lines-tab.md)
-* Third Chapter
-  * Function Plot Testing
+* [Third Chapter](third-chapter.md)
+  * [Function Plot Testing](third-chapter/function-plot-testing.md)
     * [Function tab](function-tab.md)
-      * Point\(Column/Row\) 
+      * [Point\(Column/Row\) ](function-tab/point(columnrow).md)
       * Parameter \(only applicable for 2D Parametric Plot and 3D Parametric Plot\)
       * From/To
       * formula panel\(Y\(x\)=, Z\(u,v\)=\) 
