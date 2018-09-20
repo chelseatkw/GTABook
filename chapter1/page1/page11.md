@@ -55,5 +55,15 @@ TestCase 7:
 |  |  | 4 | windrose plot | Fill row numbers | Plot correct |
 |  |  | 5 | Pie chart | Fill row numbers | Plot correct |
 
+TestCase 8:
+
+| Type id | Type name | Case id | Case description | Test data | Expected results |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| 8 | Ignore hidden columns/rows | 1 | XYXY data | Fill row numbers | Plot Correct |
+|  |  | 2 | XYYYY | Fill row numbers | Plot Correct |
+|  |  |  |  |  |  |
+
+
+
 
 
