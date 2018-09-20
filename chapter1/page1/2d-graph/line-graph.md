@@ -19,6 +19,15 @@ TestCase 2:
 |  |  | 4 | B-Spline | Fill row numbers | Plot correct |
 |  |  | 5 | Spline | Fill row numbers | Plot correct |
 
+TestCase 3:
+
+| Type id | Type name | Case id | Case description | Test data | Expected results |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| 3 | Connect type | 1 | Color: Set as Increment | Fill row numbers | Plot correct |
+|  |  | 2 | color mapping | Fill row numbers | Plot correct |
+|  |  | 3 | color indexing | Fill row numbers | Plot correct |
+|  |  | 4 | Set as Custom and right click to set Custom color | Fill row numbers | Plot correct |
+
 TestCase 6:
 
 | Type id | Type name | Case id | Case description | Test data | Expected results |
