@@ -29,5 +29,49 @@ TestCase 4:
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | 4 |  | 1 | Hide Label if Column/Bar Height Less than \(%\) in Label | Fill row numbers | Plot correct |
 
+TestCase 5:
+
+| Type id | Type name | Case id | Case description | Test data | Expected results |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| 5 |  | 1 | Support multi-line data labels  | Fill row numbers | Plot correct |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
