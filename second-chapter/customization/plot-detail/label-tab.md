@@ -17,5 +17,11 @@ TestCase 2:
 | :--- | :--- | :--- | :--- | :--- | :--- |
 |  | Label From | 1 | Label From,select col\(B\) | Fill row numbers | Plot correct |
 
+TestCase 3:
+
+| Type id | Type name | Case id | Case description | Test data | Expected results |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+|  |  | 1 | Numeric Display Format  | Fill row numbers | Plot correct |
+
 
 
