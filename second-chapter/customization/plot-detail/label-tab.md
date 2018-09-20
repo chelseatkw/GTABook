@@ -21,7 +21,7 @@ TestCase 3:
 
 | Type id | Type name | Case id | Case description | Test data | Expected results |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-|  |  | 1 | Numeric Display Format  | Fill row numbers | Plot correct |
+|  |  | 1 | Numeric Display Format: .4 | Fill row numbers | Plot correct |
 
 
 
