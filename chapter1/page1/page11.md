@@ -39,5 +39,11 @@ TestCase 5:
 |  |  | 2 | XYYYY | Fill row numbers | Plot Correct |
 |  |  | 3 | XYZXYZ | Fill row numbers | Plot Correct |
 
+TestCase 6:
+
+| Type id | Type name | Case id | Case description | Test data | Expected results |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| 6 |  | 1 | Error bar | Fill row numbers | Plot Correct |
+
 
 
