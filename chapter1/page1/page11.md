@@ -59,11 +59,8 @@ TestCase 8:
 
 | Type id | Type name | Case id | Case description | Test data | Expected results |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| 8 | Ignore hidden columns/rows | 1 | XYXY data | Fill row numbers | Plot Correct |
-|  |  | 2 | XYYYY | Fill row numbers | Plot Correct |
-|  |  |  |  |  |  |
-
-
+| 8 | Ignore hidden columns/rows | 1 | set column hidden | Fill row numbers | Plot Correct |
+|  |  | 2 | add filter to filter part of the rows | Fill row numbers | Plot Correct |
 
 
 
