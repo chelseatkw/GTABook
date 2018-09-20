@@ -2,14 +2,18 @@
 
 * [Introduction](README.md)
 * [Table of Contents](table-of-contents.md)
-* [First Chapter](first-chapter.md)
-  * [Plotting](first-chapter/plotting.md)
-    * [Plot Range](chapter1/page1/page11.md)
-    * [Column of different format](chapter1/page1/column-of-different-format.md)
-    * [2D Graph](chapter1/page1/2d-graph.md)
-      * [Line Graph](chapter1/page1/2d-graph/line-graph.md)
-      * [Symbols Graph](chapter1/page1/2d-graph/symbols-graph.md)
-    * 3D Graph
+
+\#\#\#[First Chapter](first-chapter.md)
+
+\#\#\#[Plotting](first-chapter/plotting.md)
+
+* [Plot Range](chapter1/page1/page11.md)
+* [Column of different format](chapter1/page1/column-of-different-format.md)
+* [2D Graph](chapter1/page1/2d-graph.md)
+  * [Line Graph](chapter1/page1/2d-graph/line-graph.md)
+  * [Symbols Graph](chapter1/page1/2d-graph/symbols-graph.md)
+* 3D Graph
+
 * [Second Chapter](second-chapter.md)
   * [Customization](second-chapter/customization.md)
     * [Plot Detail](second-chapter/customization/plot-detail.md)
@@ -40,4 +44,6 @@
       * [definition table](function-tab/definition-table.md)
       * [Create New Graph dropdown list button](function-tab/create-new-graph-dropdown-list-button.md)
     * [Label tab](label-tab.md)
+
+
 
