@@ -26,8 +26,8 @@ TestCase 3:
 
 | Type id | Type name | Case id | Case description | Test data | Expected results |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| 2 |  | 1 | mixed text and numeric data in X | Fill row numbers | Plot Correct |
-|  |  | 2 | mixed text and numeric data in Y columns | Fill row numbers | Plot Correct |
+| 3 |  | 1 | Linked data plotting \(for different plot type） | Fill row numbers | Plot Correct |
+|  |  |  | Linked data plotting \(grouped plot） | Fill row numbers | Plot Correct |
 
 
 
