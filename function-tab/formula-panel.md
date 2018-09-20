@@ -4,13 +4,19 @@ TestCase 1:
 
 | Type id | Type name | Case id | Case description | Test data | Expected results |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| 1 |  | 1 | Try invalid data like too large data 100000000, 0, click OK | Fill row numbers | error message will turn out |
-|  |  | 2 | Can not enter string | Fill row numbers | can not enter string |
-|  |  | 3 | point is a little large,eg 100,000,00 | Fill row numbers | check if plotting is too slow |
-|  |  | 4 |  |  |  |
-|  |  | 5 |  |  |  |
-|  |  | 6 |  |  |  |
-|  |  | 7 |  |  |  |
+| 1 |  | 1 | try different formula,eg Y\(x\)=3 | Fill row numbers | plot corret |
+|  |  | 2 | try different formula,eg Y\(x\)=sin\(x\) | Fill row numbers | plot corret |
+|  |  | 3 | try different formula,eg Z\(x,y\)=tsin\(x\)cos\(y\) |  | plot corret |
+|  |  | 4 | Select different formula by the triangle next to the panel |  | plot corret |
+|  |  | 5 | the formula panel is blank |  | error message will turn out |
+|  |  | 6 | the formula has undefined value |  | error message will turn out |
+|  |  | 7 | Try very long string in Function Plot expression |  | plot corret |
 
+formula by the triangle, list:
 
+[https://www.originlab.com/doc/LabTalk/ref/Alphabetical-Listing-of-Functions?tdsourcetag=s\_pctim\_aiomsg](https://www.originlab.com/doc/LabTalk/ref/Alphabetical-Listing-of-Functions?tdsourcetag=s_pctim_aiomsg)
+
+Function Reference:
+
+[https://www.originlab.com/doc/LabTalk/ref/Function-Reference?tdsourcetag=s\_pctim\_aiomsg](https://www.originlab.com/doc/LabTalk/ref/Function-Reference?tdsourcetag=s_pctim_aiomsg)
 
