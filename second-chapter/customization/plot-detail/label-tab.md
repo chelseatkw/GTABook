@@ -15,7 +15,7 @@ TestCase 2:
 
 | Type id | Type name | Case id | Case description | Test data | Expected results |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| 1 | Show at Specified Indices Only | 1 | Indices from dataset | Fill row numbers | Plot correct |
+|  | Label From | 1 | Label From,select col\(B\) | Fill row numbers | Plot correct |
 
 
 
