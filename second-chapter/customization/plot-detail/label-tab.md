@@ -11,114 +11,11 @@ TestCase 1:
 |  |  | 3 | Indices... editbox is empty, then no label should show | Fill row numbers | Plot correct |
 |  |  |  | In Indices from dataset or space separated numbers edit box, you can also enter the syntax: \[book\]sheet!column like \[Multiple Peaks.dat\]Peak\_Centers1!A . If the index dataset is from same workbook, enter syntax like sheet!column like Peak\_Centers1!A, if in same sheet, just enter column, like A. | B | Plot correct |
 
-
-
 TestCase 2:
 
 | Type id | Type name | Case id | Case description | Test data | Expected results |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | 1 | Show at Specified Indices Only | 1 | Indices from dataset | Fill row numbers | Plot correct |
-|  |  | 2 | Indices from space separated numbers. 0=last | Fill row numbers | Plot correct |
-|  |  | 3 | Indices... editbox is empty, then no label should show | Fill row numbers | Plot correct |
-|  |  |  | In Indices from dataset or space separated numbers edit box, you can also enter the syntax: \[book\]sheet!column like \[Multiple Peaks.dat\]Peak\_Centers1!A . If the index dataset is from same workbook, enter syntax like sheet!column like Peak\_Centers1!A, if in same sheet, just enter column, like A. | B | Plot correct |
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
