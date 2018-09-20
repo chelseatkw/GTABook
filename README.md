@@ -16,7 +16,7 @@ example:
 
 ![](/assets/gtade.png)
 
-> Base on : Go + Git + VMVare/PC
+> * Base on : Go + Git + VMVare/PC
 
 ---
 
