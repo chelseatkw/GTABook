@@ -15,19 +15,19 @@ TestCase 2:
 
 | Type id | Type name | Case id | Case description | Test data | Expected results |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-|  | Label From | 1 | Label From,select col\(B\) | Fill row numbers | Plot correct |
+| 2 | Label From | 1 | Label From,select col\(B\) | Fill row numbers | Plot correct |
 
 TestCase 3:
 
 | Type id | Type name | Case id | Case description | Test data | Expected results |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-|  |  | 1 | Numeric Display Format: .4 | Fill row numbers | Plot correct |
+| 3 |  | 1 | Numeric Display Format: .4 | Fill row numbers | Plot correct |
 
 TestCase 4:
 
 | Type id | Type name | Case id | Case description | Test data | Expected results |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-|  |  | 1 | Hide Label if Column/Bar Height Less than \(%\) in Label  | Fill row numbers | Plot correct |
+| 4 |  | 1 | Hide Label if Column/Bar Height Less than \(%\) in Label | Fill row numbers | Plot correct |
 
 
 
