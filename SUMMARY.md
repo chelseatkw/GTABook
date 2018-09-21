@@ -31,8 +31,8 @@
       * [Special Ticks tab](second-chapter/customization/special-ticks-tab.md)
       * [Break Tab](second-chapter/customization/break-tab.md)
       * [Reference Lines tab](second-chapter/customization/reference-lines-tab.md)
-* [Third Chapter](third-chapter.md)
-  * [Function Plot Testing](third-chapter/function-plot-testing.md)
+* Third Chapter
+  * Function Plot Testing
     * [Function tab](function-tab.md)
       * [Point](function-tab/point.md)
       * [Parameter](function-tab/parameter.md)
@@ -41,4 +41,6 @@
       * [definition table](function-tab/definition-table.md)
       * [Create New Graph dropdown list button](function-tab/create-new-graph-dropdown-list-button.md)
     * [Label tab](label-tab.md)
+
+
 
