@@ -28,7 +28,7 @@ TestCase 4:
 
 | Type id | Type name | Case id | Case description | Test data | Expected results |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| 4 |  | 1 |  Dropdown list for color, the button in Details column | Fill row numbers | it works |
+| 4 |  | 1 | Dropdown list for color, the button in Details column | Fill row numbers | Plot correct |
 
 
 
