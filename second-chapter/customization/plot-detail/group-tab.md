@@ -18,5 +18,11 @@ TestCase 2:
 |  |  | 3 | Stretch | Fill row numbers | Plot correct |
 |  |  | 4 | Binned | Fill row numbers | Plot correct |
 
+TestCase 3:
+
+| Type id | Type name | Case id | Case description | Test data | Expected results |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| 1 | mapped | 1 | Nested/Connected: with radio ahead | Fill row numbers | it works |
+
 
 
