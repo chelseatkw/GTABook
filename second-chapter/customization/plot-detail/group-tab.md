@@ -30,5 +30,11 @@ TestCase 4:
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | 4 |  | 1 | Dropdown list for color, the button in Details column | Fill row numbers | Plot correct |
 
+TestCase 5:
+
+| Type id | Type name | Case id | Case description | Test data | Expected results |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| 5 |  | 1 | Preview: customize Fill Color, Border Color, Border Type, Fill Pattern increment list respectively | Fill row numbers | preview works |
+
 
 
