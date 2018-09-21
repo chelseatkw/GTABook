@@ -36,5 +36,11 @@ TestCase 5:
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | 5 |  | 1 | Preview: customize Fill Color, Border Color, Border Type, Fill Pattern increment list respectively | Fill row numbers | preview works |
 
+TestCase 6:
+
+| Type id | Type name | Case id | Case description | Test data | Expected results |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| 6 |  | 1 | Save Theme as: customize Fill Color, Border Color, Border Type, Fill Pattern increment list respectively and save theme as, the reoload | Fill row numbers | it works |
+
 
 
